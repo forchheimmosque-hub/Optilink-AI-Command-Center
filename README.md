@@ -1,13 +1,13 @@
-# gpt-leads-hunter-downloads
-Official installer downloads for GPT Leads Hunter — the all-in-one AI lead-generation, outreach &amp; SEO desktop app for Windows.
-# GPT Leads Hunter — Downloads
+# Optilink AI Command Center-downloads
+Official installer downloads for Optilink AI Command Center — the all-in-one AI lead-generation, outreach &amp; SEO desktop app for Windows.
+# Optilink AI Command Center — Downloads
 
-The official installer for **GPT Leads Hunter**, the all-in-one AI desktop app
+The official installer for **Optilink AI Command Center**, the all-in-one AI desktop app
 for finding leads, auditing & redesigning client sites, and running cold
 outreach — all on your own machine.
 
 ## Download
-Grab the latest **GPT Leads Hunter Setup .exe** from the **Releases** section
+Grab the latest **Optilink AI Command Center Setup .exe** from the **Releases** section
 (right-hand side of this page) and run it. Start with a **14-day free trial**.
 
 ## First launch
